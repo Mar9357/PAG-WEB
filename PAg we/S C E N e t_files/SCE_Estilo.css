@@ -1,0 +1,47 @@
+body
+	{
+	background-image: url('https://estilosdeaprendizaje.org/wp-content/webp-express/webp-images/uploads/2024/04/AF1QipPGemWczhE1K8QyAf5bUusJcwStwjVlTdpbdIgnw426-h240-k-no.jpeg.webp');
+	background-size: cover;
+	/*background-image: url('navidad/fondo_Centro5.JPG');*/
+	/*background-color:#056000;*/
+	/*background-position: center  ;*/
+	
+	background-repeat: repeat;
+	/*background-repeat:no-repeat ;*/
+	background-attachment: fixed;
+	margin: 0cm 0cm 0cm 0cm;
+	font: "Tw Condensed";
+	color:#554b37
+	/*color:#ffffff*/
+	}
+ALink
+	{
+	color: #554b37;
+	/*color:#ffffff*/
+	}
+asp:HyperLink
+{
+	color: #554b37;
+	/*color:#ffffff*/
+}
+ItemTemplate
+{
+	color: #554b37;
+	/*color:#ffffff*/
+}
+Link
+{
+	color: #554b37;
+	/*color:#ffffff*/
+}
+VLink
+{
+	color: #554b37;
+	/*color:#ffffff*/
+}
+A
+{
+	color: #554b37;
+	/*color:#ffffff*/
+}
+
